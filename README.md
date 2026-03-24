@@ -1,1 +1,1 @@
-# Sales_analysis_dashboard
+This project presents an interactive Sales Analysis Dashboard built using Power BI to evaluate business performance across products, regions, and salespersons. The dashboard helps in identifying key sales trends, high-performing areas, and profitability insights to support data-driven decision-making.
